@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sample-fuyu/static/css/main.30cb3d1d.css",
+    "main.js": "/react-sample-fuyu/static/js/main.f2a5d28e.js",
+    "index.html": "/react-sample-fuyu/index.html",
+    "main.30cb3d1d.css.map": "/react-sample-fuyu/static/css/main.30cb3d1d.css.map",
+    "main.f2a5d28e.js.map": "/react-sample-fuyu/static/js/main.f2a5d28e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30cb3d1d.css",
+    "static/js/main.f2a5d28e.js"
+  ]
+}
